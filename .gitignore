@@ -7,5 +7,7 @@ target
 *~
 .DS_Store
 nohup.out
-
-
+.idea/
+.idea_modules/
+project/boot/
+target/
