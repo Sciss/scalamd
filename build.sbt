@@ -2,7 +2,7 @@ name                := "scalamd"
 
 description         := "ScalaMD: A Scala Markdown Processor"
 
-organization        := "org.fusesource"
+organization        := "org.fusesource.scalamd"
 
 licenses            := Seq("Apache 2.0" -> url("http://www.apache.org/licenses/LICENSE-2.0.txt"))
 
